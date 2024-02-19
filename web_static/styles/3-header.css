@@ -1,0 +1,17 @@
+header {
+    background-color: #484848;
+    height: 70px;
+    line-height: 70px;
+    color: white;
+}
+
+.logo {
+    width: 100px;
+    height: 40px;
+    background-image: url('../images/logo.png'); /* Assuming the logo image is in the images folder */
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
